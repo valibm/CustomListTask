@@ -1,0 +1,14 @@
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\bin\Debug\netcoreapp3.1\CutomListTask.exe
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\bin\Debug\netcoreapp3.1\CutomListTask.deps.json
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\bin\Debug\netcoreapp3.1\CutomListTask.runtimeconfig.json
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\bin\Debug\netcoreapp3.1\CutomListTask.runtimeconfig.dev.json
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\bin\Debug\netcoreapp3.1\CutomListTask.dll
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\bin\Debug\netcoreapp3.1\CutomListTask.pdb
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\obj\Debug\netcoreapp3.1\CutomListTask.csproj.AssemblyReference.cache
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\obj\Debug\netcoreapp3.1\CutomListTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\obj\Debug\netcoreapp3.1\CutomListTask.AssemblyInfoInputs.cache
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\obj\Debug\netcoreapp3.1\CutomListTask.AssemblyInfo.cs
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\obj\Debug\netcoreapp3.1\CutomListTask.csproj.CoreCompileInputs.cache
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\obj\Debug\netcoreapp3.1\CutomListTask.dll
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\obj\Debug\netcoreapp3.1\CutomListTask.pdb
+C:\Users\valibm\source\repos\CutomListTask\CutomListTask\obj\Debug\netcoreapp3.1\CutomListTask.genruntimeconfig.cache
